@@ -49,8 +49,8 @@ def ask_questions(questions_list):
     responses = {}
 
     # Loop through each question and collect responses
-    for question in questions_list[0:5]:
-        # Ask the question
+    for question in questions_list[0:10]:
+        # Ask the question (10 questions)
         print(question)
         # Collect the user's response
         response = input("Your answer: ")
