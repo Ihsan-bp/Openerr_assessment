@@ -10,16 +10,27 @@ Pass all both bullet points and 15 key words to LLM alomg with the intruction to
 
 <h2>Result</H2>
 1. Product vision: Articulated and communicated clear product vision to stakeholders, ensuring alignment with business objectives.\n
+
 2.Roadmap: Managed product roadmap, prioritizing and sequencing features to drive product growth and success.\n
+
 3. Product metrics: Established and tracked key product metrics to measure progress and inform decision-making.\n
-4. Business/product requirements: Gathered and analyzed business and product requirements, translating them into actionable development plans.\n
-5. Project management skills: Utilized project management skills to plan, execute, and deliver product initiatives on time and within budget.\n
+4. 
+5. Business/product requirements: Gathered and analyzed business and product requirements, translating them into actionable development plans.\n
+6. 
+7. Project management skills: Utilized project management skills to plan, execute, and deliver product initiatives on time and within budget.\n
+8. 
 6.Competitive analysis: Conducted thorough competitive analysis to identify market trends, opportunities, and threats.\n
-7. Customer experience: Focused on optimizing customer experience throughout the product lifecycle, ensuring satisfaction and retention.\n
-8. Problem-solving: Identified and solved complex product and technical issues, leveraging analytical skills and creative problem-solving techniques.\n
-9. Strong ownership: Took strong ownership of product decisions, ensuring alignment with overall business goals.\n
-10. Business judgment: Exercised sound business judgment in evaluating product risks and opportunities, making informed decisions that maximized value.\n
-11. Gantt chart: Created and maintained Gantt charts to plan and track project timelines, ensuring timely delivery of deliverables.\n
+
+10. Customer experience: Focused on optimizing customer experience throughout the product lifecycle, ensuring satisfaction and retention.\n
+11. 
+12. Problem-solving: Identified and solved complex product and technical issues, leveraging analytical skills and creative problem-solving techniques.\n
+13. 
+14. Strong ownership: Took strong ownership of product decisions, ensuring alignment with overall business goals.\n
+15. 
+16. Business judgment: Exercised sound business judgment in evaluating product risks and opportunities, making informed decisions that maximized value.\n
+17. 
+18. Gantt chart: Created and maintained Gantt charts to plan and track project timelines, ensuring timely delivery of deliverables.\n
+19. 
 12.Customer funnel: Analyzed customer funnel data to identify areas for improvement, optimizing conversion rates and driving user engagement.\n
 
 
