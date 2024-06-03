@@ -9,8 +9,8 @@ method:
 Pass all both bullet points and 15 key words to LLM alomg with the intruction to generate new !5 nullet points.
 
 <h2>Result</H2>
-1. Product vision: Articulated and communicated clear product vision to stakeholders, ensuring alignment with business objectives.
-2.Roadmap: Managed product roadmap, prioritizing and sequencing features to drive product growth and success.
+1. Product vision: Articulated and communicated clear product vision to stakeholders, ensuring alignment with business objectives.\n
+2.Roadmap: Managed product roadmap, prioritizing and sequencing features to drive product growth and success.\n
 3. Product metrics: Established and tracked key product metrics to measure progress and inform decision-making.
 4. Business/product requirements: Gathered and analyzed business and product requirements, translating them into actionable development plans.
 5. Project management skills: Utilized project management skills to plan, execute, and deliver product initiatives on time and within budget.
