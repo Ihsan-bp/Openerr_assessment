@@ -37,7 +37,7 @@ Pass all both bullet points and 15 key words to LLM alomg with the intruction to
 <h2>2. Multiple LLM call- Breaking down the initial points</h2>
 (assumed the keywords are not awailable, generated all poinnts from initial points only)
 
-This involves passing the initial points to an LLM, which breaks down each point further into separate topics or keywords. Then, the generated keywords are used to instruct another LLM to generate 15 unique bullet points, ensuring they do not repeat information from the initial points and provide maximum quality descriptions of the user's experience and skills.
+This involves passing the initial points send to an LLM, which breaks down each point further into separate topics or keywords. Then, the generated keywords are used to instruct another LLM to generate 15 unique bullet points, ensuring they do not repeat information from the initial points and provide maximum quality descriptions of the user's experience and skills.
 
 <h2> results</h2>
 1. Led the implementation of a comprehensive product lifecycle management system, streamlining processes and improving collaboration across teams.\n
